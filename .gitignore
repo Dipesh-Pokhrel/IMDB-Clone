@@ -1,0 +1,29 @@
+# Django #
+*.log
+*.pyc
+*.pyo
+*.sqlite3
+* __pycache__/*
+*local_settings.py
+
+# Backup files #
+*.bak
+
+# Distribution files #
+.Python build/
+lib/
+var/
+
+# Unit test files #
+.cache/
+pytest_cache/
+
+# Visual Studio files #
+.vscode/
+.vscode-test/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.history/
+
